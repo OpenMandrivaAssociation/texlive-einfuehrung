@@ -1,11 +1,11 @@
-# revision 25301
+# revision 25898
 # category Package
 # catalog-ctan /info/examples/Einfuehrung
-# catalog-date 2012-02-02 16:26:19 +0100
+# catalog-date 2012-04-08 22:46:50 +0200
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-einfuehrung
-Version:	20120202
+Version:	20120408
 Release:	1
 Summary:	Examples from the book Einfuhrung in LaTeX
 Group:		Publishing
