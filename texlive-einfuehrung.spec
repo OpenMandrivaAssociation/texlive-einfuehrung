@@ -1,4 +1,4 @@
-# revision 25898
+# revision 25980
 # category Package
 # catalog-ctan /info/examples/Einfuehrung
 # catalog-date 2012-04-08 22:46:50 +0200
@@ -1112,6 +1112,7 @@ Edition book "Einfuhrung in LaTeX".
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exadante.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exafoils.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exafubeamer.cls
+%doc %{_texmfdistdir}/doc/latex/einfuehrung/exafupd.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examargin.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examemoir.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examinimal-mathsymbols.cls
@@ -1120,7 +1121,11 @@ Edition book "Einfuhrung in LaTeX".
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examples.bib
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examplesA.bib
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/examplesB.bib
+%doc %{_texmfdistdir}/doc/latex/einfuehrung/exapd.cls
+%doc %{_texmfdistdir}/doc/latex/einfuehrung/exaprosper.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exareport.cls
+%doc %{_texmfdistdir}/doc/latex/einfuehrung/exaseminar.cls
+%doc %{_texmfdistdir}/doc/latex/einfuehrung/exaslidenotes.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exasymbol.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/exaxetex.cls
 %doc %{_texmfdistdir}/doc/latex/einfuehrung/fontDemo-E.tex
