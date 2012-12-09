@@ -1157,3 +1157,20 @@ Edition book "Einfuhrung in LaTeX".
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120408-2
++ Revision: 804573
+- Update to latest release.
+- Update to latest release.
+
+* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120408-1
++ Revision: 790564
+- Update to latest release.
+
+* Wed Feb 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120202-1
++ Revision: 772055
+- texlive-einfuehrung
+- texlive-einfuehrung
+
