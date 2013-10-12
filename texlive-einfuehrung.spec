@@ -1,4 +1,4 @@
-# revision 25980
+# revision 29349
 # category Package
 # catalog-ctan /info/examples/Einfuehrung
 # catalog-date 2012-04-08 22:46:50 +0200
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-einfuehrung
 Version:	20120408
-Release:	2
+Release:	3
 Summary:	Examples from the book Einfuhrung in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/Einfuehrung
@@ -1157,20 +1157,3 @@ Edition book "Einfuhrung in LaTeX".
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120408-2
-+ Revision: 804573
-- Update to latest release.
-- Update to latest release.
-
-* Fri Apr 13 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120408-1
-+ Revision: 790564
-- Update to latest release.
-
-* Wed Feb 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120202-1
-+ Revision: 772055
-- texlive-einfuehrung
-- texlive-einfuehrung
-
