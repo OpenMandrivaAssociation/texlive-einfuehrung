@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-einfuehrung
-Version:	20120408
-Release:	11
+Version:	20170414
+Release:	1
 Summary:	Examples from the book Einfuhrung in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/Einfuehrung
