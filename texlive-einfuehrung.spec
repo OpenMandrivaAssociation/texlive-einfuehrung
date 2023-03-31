@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-einfuehrung
 Version:	20190228
-Release:	1
+Release:	2
 Summary:	Examples from the book Einfuhrung in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/examples/Einfuehrung
