@@ -9,7 +9,7 @@ Version:	20190228
 Release:	2
 Summary:	Examples from the book Einfuhrung in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/examples/Einfuehrung
+URL:		https://www.ctan.org/tex-archive/info/examples/Einfuehrung
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/einfuehrung.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/einfuehrung.doc.tar.xz
